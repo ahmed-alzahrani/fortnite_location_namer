@@ -13,8 +13,7 @@ by pressing the list icon in the top-right corner.
 
 ## The app in action
 
-![demo](docs/app.gif)
-
+![app](docs/app.gif)
 
 ## Getting Started
 
